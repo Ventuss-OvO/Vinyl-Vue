@@ -1,0 +1,6 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
+
+# If you have a sitemap, you can add it here, for example:
+# Sitemap: https://your-app-domain.com/sitemap.xml

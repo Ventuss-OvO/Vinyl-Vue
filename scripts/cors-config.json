@@ -1,0 +1,14 @@
+[
+  {
+    "AllowedOrigins": [
+      "https://*.ventuss.xyz"
+    ],
+    "AllowedMethods": [
+      "GET"
+    ],
+    "AllowedHeaders": [
+      "*"
+    ],
+    "MaxAgeSeconds": 3000
+  }
+]

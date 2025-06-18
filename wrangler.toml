@@ -1,0 +1,31 @@
+name = "vinyl-vue-stats-worker"
+main = "server/index.ts"
+compatibility_date = "2023-12-01"
+
+# Configuration for static assets
+# This project does not serve static assets directly from this worker.
+# The [site] configuration is included as an example if you wish to extend it.
+# [site]
+# bucket = "./dist"
+
+# Build configuration
+[build]
+command = "npm run build:server" # Assuming a separate build script for the worker
+# The 'dir' property is commented out as we are not uploading a directory.
+# dir = "dist"
+
+# Environment variables
+# It is recommended to manage environment variables and secrets
+# through the Cloudflare dashboard or using .dev.vars for local development.
+# Do not commit secrets to this file.
+# Example:
+# [vars]
+# SOME_VARIABLE = "some_value"
+[vars]
+
+# Production environment configuration
+# [env.production]
+# name = "vinyl-vue-stats-worker-prod"
+#
+# [env.production.vars]
+# SOME_OTHER_VARIABLE = "production_value"

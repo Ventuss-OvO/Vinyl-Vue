@@ -1,0 +1,16 @@
+[
+  {
+    "_comment": "This is a CORS configuration for your R2 bucket. It allows web pages from your specified domain to request resources (like music files and images) stored in this bucket. You should apply this configuration to your R2 bucket's CORS settings in the Cloudflare dashboard.",
+    "AllowedOrigins": [
+      "https://*.your-domain.com",
+      "http://localhost:5173"
+    ],
+    "AllowedMethods": [
+      "GET"
+    ],
+    "AllowedHeaders": [
+      "*"
+    ],
+    "MaxAgeSeconds": 3000
+  }
+] 

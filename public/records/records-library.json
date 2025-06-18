@@ -1,0 +1,370 @@
+{
+  "albums": [
+    {
+      "id": "1",
+      "folder": "Hotel California",
+      "artist": "Eagles",
+      "title": "Hotel California",
+      "year": "1976",
+      "coverImage": "s1480091.jpg",
+      "coverSrc": "${R2_PUBLIC_URL}/Eagles/Hotel California/s1480091.jpg",
+      "tracks": 9,
+      "songs": [
+        {
+          "file": "01 Hotel California.m4a",
+          "title": "Hotel California",
+          "track": 1,
+          "src": "${R2_PUBLIC_URL}/Eagles/Hotel California/01 Hotel California.m4a"
+        },
+        {
+          "file": "02 New Kid in Town.m4a",
+          "title": "New Kid in Town",
+          "track": 2,
+          "src": "${R2_PUBLIC_URL}/Eagles/Hotel California/02 New Kid in Town.m4a"
+        },
+        {
+          "file": "03 Life in the Fast Lane.m4a",
+          "title": "Life in the Fast Lane",
+          "track": 3,
+          "src": "${R2_PUBLIC_URL}/Eagles/Hotel California/03 Life in the Fast Lane.m4a"
+        },
+        {
+          "file": "04 Wasted Time.m4a",
+          "title": "Wasted Time",
+          "track": 4,
+          "src": "${R2_PUBLIC_URL}/Eagles/Hotel California/04 Wasted Time.m4a"
+        },
+        {
+          "file": "05 Wasted Time (Reprise).m4a",
+          "title": "Wasted Time (Reprise)",
+          "track": 5,
+          "src": "${R2_PUBLIC_URL}/Eagles/Hotel California/05 Wasted Time (Reprise).m4a"
+        },
+        {
+          "file": "06 Victim of Love.m4a",
+          "title": "Victim of Love",
+          "track": 6,
+          "src": "${R2_PUBLIC_URL}/Eagles/Hotel California/06 Victim of Love.m4a"
+        },
+        {
+          "file": "07 Pretty Maids All in a Row.m4a",
+          "title": "Pretty Maids All in a Row",
+          "track": 7,
+          "src": "${R2_PUBLIC_URL}/Eagles/Hotel California/07 Pretty Maids All in a Row.m4a"
+        },
+        {
+          "file": "08 Try and Love Again.m4a",
+          "title": "Try and Love Again",
+          "track": 8,
+          "src": "${R2_PUBLIC_URL}/Eagles/Hotel California/08 Try and Love Again.m4a"
+        },
+        {
+          "file": "09 The Last Resort.m4a",
+          "title": "The Last Resort",
+          "track": 9,
+          "src": "${R2_PUBLIC_URL}/Eagles/Hotel California/09 The Last Resort.m4a"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "folder": "The Köln Concert",
+      "artist": "Keith Jarrett",
+      "title": "The Köln Concert",
+      "year": "1983",
+      "coverImage": "s4471375.jpg",
+      "coverSrc": "${R2_PUBLIC_URL}/Keith Jarrett/The Köln Concert/s4471375.jpg",
+      "tracks": 4,
+      "songs": [
+        {
+          "file": "01 Pt. I (Live).m4a",
+          "title": "Pt. I (Live)",
+          "track": 1,
+          "src": "${R2_PUBLIC_URL}/Keith Jarrett/The Köln Concert/01 Pt. I (Live).m4a"
+        },
+        {
+          "file": "02 Pt. II A (Live).m4a",
+          "title": "Pt. II A (Live)",
+          "track": 2,
+          "src": "${R2_PUBLIC_URL}/Keith Jarrett/The Köln Concert/02 Pt. II A (Live).m4a"
+        },
+        {
+          "file": "03 Pt. II B (Live).m4a",
+          "title": "Pt. II B (Live)",
+          "track": 3,
+          "src": "${R2_PUBLIC_URL}/Keith Jarrett/The Köln Concert/03 Pt. II B (Live).m4a"
+        },
+        {
+          "file": "04  Pt. II C (Live).m4a",
+          "title": "Pt. II C (Live)",
+          "track": 4,
+          "src": "${R2_PUBLIC_URL}/Keith Jarrett/The Köln Concert/04  Pt. II C (Live).m4a"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "folder": "I_O",
+      "artist": "Li Zhi",
+      "title": "i/O",
+      "year": "2015",
+      "coverImage": "s27992073.jpg",
+      "coverSrc": "${R2_PUBLIC_URL}/李志/I_O/s27992073.jpg",
+      "tracks": 11,
+      "songs": [
+        {
+          "file": "01 杭州.m4a",
+          "title": "Hangzhou",
+          "track": 1,
+          "src": "${R2_PUBLIC_URL}/李志/I_O/01 杭州.m4a"
+        },
+        {
+          "file": "02 墙上的向日葵.m4a",
+          "title": "Wallflower",
+          "track": 2,
+          "src": "${R2_PUBLIC_URL}/李志/I_O/02 墙上的向日葵.m4a"
+        },
+        {
+          "file": "03 铅笔.m4a",
+          "title": "Pencil",
+          "track": 3,
+          "src": "${R2_PUBLIC_URL}/李志/I_O/03 铅笔.m4a"
+        },
+        {
+          "file": "04 来了.m4a",
+          "title": "Here Comes",
+          "track": 4,
+          "src": "${R2_PUBLIC_URL}/李志/I_O/04 来了.m4a"
+        },
+        {
+          "file": "05 下雨+董卓瑶+忽然.m4a",
+          "title": "Rain / Dong Zhuo Yao / Suddenly",
+          "track": 5,
+          "src": "${R2_PUBLIC_URL}/李志/I_O/05 下雨+董卓瑶+忽然.m4a"
+        },
+        {
+          "file": "06 这个世界会好吗.m4a",
+          "title": "Will this world be good?",
+          "track": 6,
+          "src": "${R2_PUBLIC_URL}/李志/I_O/06 这个世界会好吗.m4a"
+        },
+        {
+          "file": "07 妈妈.m4a",
+          "title": "Mama",
+          "track": 7,
+          "src": "${R2_PUBLIC_URL}/李志/I_O/07 妈妈.m4a"
+        },
+        {
+          "file": "08 定西.m4a",
+          "title": "Dingxi",
+          "track": 8,
+          "src": "${R2_PUBLIC_URL}/李志/I_O/08 定西.m4a"
+        },
+        {
+          "file": "09 方式.m4a",
+          "title": "Method",
+          "track": 9,
+          "src": "${R2_PUBLIC_URL}/李志/I_O/09 方式.m4a"
+        },
+        {
+          "file": "10 鸵鸟+天空之城+我们不能失去信仰.m4a",
+          "title": "Ostrich / City of Sky / We can't lose faith",
+          "track": 10,
+          "src": "${R2_PUBLIC_URL}/李志/I_O/10 鸵鸟+天空之城+我们不能失去信仰.m4a"
+        },
+        {
+          "file": "11 山阴路的夏天.m4a",
+          "title": "Summer of Shanyin Road",
+          "track": 11,
+          "src": "${R2_PUBLIC_URL}/李志/I_O/11 山阴路的夏天.m4a"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "folder": "You Want It Darker",
+      "artist": "Leonard Cohen",
+      "title": "You Want It Darker",
+      "year": "2016",
+      "coverImage": "s29000894.jpg",
+      "coverSrc": "${R2_PUBLIC_URL}/Leonard Cohen/You Want It Darker/s29000894.jpg",
+      "tracks": 9,
+      "songs": [
+        {
+          "file": "01 You Want It Darker.m4a",
+          "title": "You Want It Darker",
+          "track": 1,
+          "src": "${R2_PUBLIC_URL}/Leonard Cohen/You Want It Darker/01 You Want It Darker.m4a"
+        },
+        {
+          "file": "02 Treaty.m4a",
+          "title": "Treaty",
+          "track": 2,
+          "src": "${R2_PUBLIC_URL}/Leonard Cohen/You Want It Darker/02 Treaty.m4a"
+        },
+        {
+          "file": "03 On the Level.m4a",
+          "title": "On the Level",
+          "track": 3,
+          "src": "${R2_PUBLIC_URL}/Leonard Cohen/You Want It Darker/03 On the Level.m4a"
+        },
+        {
+          "file": "04 Leaving the Table.m4a",
+          "title": "Leaving the Table",
+          "track": 4,
+          "src": "${R2_PUBLIC_URL}/Leonard Cohen/You Want It Darker/04 Leaving the Table.m4a"
+        },
+        {
+          "file": "05 If I Didn't Have Your Love.m4a",
+          "title": "If I Didn't Have Your Love",
+          "track": 5,
+          "src": "${R2_PUBLIC_URL}/Leonard Cohen/You Want It Darker/05 If I Didn't Have Your Love.m4a"
+        },
+        {
+          "file": "06 Traveling Light.m4a",
+          "title": "Traveling Light",
+          "track": 6,
+          "src": "${R2_PUBLIC_URL}/Leonard Cohen/You Want It Darker/06 Traveling Light.m4a"
+        },
+        {
+          "file": "07 It Seemed the Better Way.m4a",
+          "title": "It Seemed the Better Way",
+          "track": 7,
+          "src": "${R2_PUBLIC_URL}/Leonard Cohen/You Want It Darker/07 It Seemed the Better Way.m4a"
+        },
+        {
+          "file": "08 Steer Your Way.m4a",
+          "title": "Steer Your Way",
+          "track": 8,
+          "src": "${R2_PUBLIC_URL}/Leonard Cohen/You Want It Darker/08 Steer Your Way.m4a"
+        },
+        {
+          "file": "09 String Reprise _ Treaty.m4a",
+          "title": "String Reprise / Treaty",
+          "track": 9,
+          "src": "${R2_PUBLIC_URL}/Leonard Cohen/You Want It Darker/09 String Reprise _ Treaty.m4a"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "folder": "冀西南林路行",
+      "artist": "Omnipotent Youth Society",
+      "title": "A Trip to Southwest Hebei Forest Road",
+      "year": "2020",
+      "coverImage": "s33783178.jpg",
+      "coverSrc": "${R2_PUBLIC_URL}/万能青年旅店/冀西南林路行/s33783178.jpg",
+      "tracks": 8,
+      "songs": [
+        {
+          "file": "01 早.m4a",
+          "title": "Morning",
+          "track": 1,
+          "src": "${R2_PUBLIC_URL}/万能青年旅店/冀西南林路行/01 早.m4a"
+        },
+        {
+          "file": "02 泥河.m4a",
+          "title": "Mud River",
+          "track": 2,
+          "src": "${R2_PUBLIC_URL}/万能青年旅店/冀西南林路行/02 泥河.m4a"
+        },
+        {
+          "file": "03 平等云雾.m4a",
+          "title": "Equality and Fog",
+          "track": 3,
+          "src": "${R2_PUBLIC_URL}/万能青年旅店/冀西南林路行/03 平等云雾.m4a"
+        },
+        {
+          "file": "04 采石.m4a",
+          "title": "Quarry",
+          "track": 4,
+          "src": "${R2_PUBLIC_URL}/万能青年旅店/冀西南林路行/04 采石.m4a"
+        },
+        {
+          "file": "05 山雀.m4a",
+          "title": "Tit",
+          "track": 5,
+          "src": "${R2_PUBLIC_URL}/万能青年旅店/冀西南林路行/05 山雀.m4a"
+        },
+        {
+          "file": "06 绕越.m4a",
+          "title": "Bypass",
+          "track": 6,
+          "src": "${R2_PUBLIC_URL}/万能青年旅店/冀西南林路行/06 绕越.m4a"
+        },
+        {
+          "file": "07 河北墨麒麟.m4a",
+          "title": "Hebei Black Kylin",
+          "track": 7,
+          "src": "${R2_PUBLIC_URL}/万能青年旅店/冀西南林路行/07 河北墨麒麟.m4a"
+        },
+        {
+          "file": "08 郊眠寺.m4a",
+          "title": "Suburban Sleeping Temple",
+          "track": 8,
+          "src": "${R2_PUBLIC_URL}/万能青年旅店/冀西南林路行/08 郊眠寺.m4a"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "folder": "Scenery Of Japanese Jazz",
+      "artist": "Ryo Fukui",
+      "title": "Scenery",
+      "year": "1976",
+      "coverImage": "s34304845.jpg",
+      "coverSrc": "${R2_PUBLIC_URL}/Ryo Fukui/Scenery Of Japanese Jazz/s34304845.jpg",
+      "tracks": 8,
+      "songs": [
+        {
+          "file": "01 アーリー・サマー.m4a",
+          "title": "Early Summer",
+          "track": 1,
+          "src": "${R2_PUBLIC_URL}/Ryo Fukui/Scenery Of Japanese Jazz/01 アーリー・サマー.m4a"
+        },
+        {
+          "file": "02 イット・クッド・ハプン・トゥ・ユー.m4a",
+          "title": "It Could Happen to You",
+          "track": 2,
+          "src": "${R2_PUBLIC_URL}/Ryo Fukui/Scenery Of Japanese Jazz/02 イット・クッド・ハプン・トゥ・ユー.m4a"
+        },
+        {
+          "file": "03 メロウ・ドリーム.m4a",
+          "title": "Mellow Dream",
+          "track": 3,
+          "src": "${R2_PUBLIC_URL}/Ryo Fukui/Scenery Of Japanese Jazz/03 メロウ・ドリーム.m4a"
+        },
+        {
+          "file": "04 ホライズン.m4a",
+          "title": "Horizon",
+          "track": 4,
+          "src": "${R2_PUBLIC_URL}/Ryo Fukui/Scenery Of Japanese Jazz/04 ホライズン.m4a"
+        },
+        {
+          "file": "05 ノード.m4a",
+          "title": "Scenery",
+          "track": 5,
+          "src": "${R2_PUBLIC_URL}/Ryo Fukui/Scenery Of Japanese Jazz/05 ノード.m4a"
+        },
+        {
+          "file": "06 ソノラ.m4a",
+          "title": "Sonora",
+          "track": 6,
+          "src": "${R2_PUBLIC_URL}/Ryo Fukui/Scenery Of Japanese Jazz/06 ソノラ.m4a"
+        },
+        {
+          "file": "07 マイ・フーリッシュ・ハート.m4a",
+          "title": "My Foolish Heart",
+          "track": 7,
+          "src": "${R2_PUBLIC_URL}/Ryo Fukui/Scenery Of Japanese Jazz/07 マイ・フーリッシュ・ハート.m4a"
+        },
+        {
+          "file": "08 オール・ザ・シングス・ユー・アー.m4a",
+          "title": "All the Things You Are",
+          "track": 8,
+          "src": "${R2_PUBLIC_URL}/Ryo Fukui/Scenery Of Japanese Jazz/08 オール・ザ・シングス・ユー・アー.m4a"
+        }
+      ]
+    }
+  ]
+}
